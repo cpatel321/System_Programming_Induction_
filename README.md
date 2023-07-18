@@ -1,8 +1,28 @@
-CTF explaination for challanges 1-6
-Username: chandrabhan 
-Points: 160
-Explaination is  in python, jupyter notebook or text file according to resource I have used to find the flag. 
+CTF challanges explaination Question 1-8 quickguide.
 
-for questionn 3, I didn't  upload the whole folder, All files can be accessed by opening the downloaded file in 7zip. 
-Question 6. found the audio but unable to understand whatever is spoken in audio. weird accent of speaker.
-This is what he was saying according to website named AURIS (https://app.aurisai.io/) "How fok's or noiraroxgo"
+Profile: [chandrabhan](http://139.59.26.242/users/14).
+
+iitgn email: chandrabhan.patel@iitgn.ac.in
+
+Total Points: 250
+
+Explaination is in python, jupyter notebook, images or text file according to convinience. 
+
+Question 1: Python script is added in repo.
+
+Question 2: Video had a comment in metadata, txt file added for steps used in solution. 
+
+Question 3: TXT file in repo contains steps I used to find flag also file which contains flag (.text) is added. 
+
+Question 4: Jupyter notebook and npy file added, ready to run on local system. 
+
+Question 5: Jupyter notebook and npy file added, ready to run on local system.
+
+Question 6: Audio file containing the flag is added along with txt file for steps involved. 
+
+Question 7: Termianl commands involved to find flag are added along with Screenshots in pdf file of same name 
+
+Question 8: txt file added.
+
+
+
