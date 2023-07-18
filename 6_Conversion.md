@@ -2,9 +2,7 @@
 
 ## Conversion
 
-[Audio file](Question%206%20213fcb7bf35d49dc86ccb36af44505a4/Untitled.mpga)
-
-Audio file
+[Audio file](/attachments/conversion.mpga)
 
 Flag is: CTF{dumb_audio_flag}
 
